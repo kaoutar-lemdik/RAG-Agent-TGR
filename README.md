@@ -6,19 +6,18 @@ Agent RAG — Trésorerie Générale du Royaume
 
 ##  Table des matières
 
-1. [C'est quoi ce projet ?]
-2. [Le problème]
-3. [La solution]
-4. [Comment ça marche ?]
-5. [Démonstration]
-6. [Technologies utilisées]
-7. [Architecture du projet]
-8. [Les chiffres clés]
-9. [Installation & Lancement]
-10. [Structure du projet]
-11. [Défis rencontrés]
-12. [Auteur]
-
+1. [C'est quoi ce projet ?](#-cest-quoi-ce-projet-)
+2. [Le problème](#-le-problème)
+3. [La solution](#-la-solution)
+4. [Comment ça marche ?](#-comment-ça-marche-)
+5. [Démonstration](#-démonstration)
+6. [Technologies utilisées](#-technologies-utilisées)
+7. [Architecture du projet](#-architecture-du-projet)
+8. [Les chiffres clés](#-les-chiffres-clés)
+9. [Installation & Lancement](#-installation--lancement)
+10. [Structure du projet](#-structure-du-projet)
+11. [Défis rencontrés](#-défis-rencontrés)
+12. [Auteur](#-auteur)
 ---
 
 ##  C'est quoi ce projet ?
