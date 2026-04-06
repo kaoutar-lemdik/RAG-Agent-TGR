@@ -1,3 +1,20 @@
+# ============================================
+# RAG TGR - Fichiers spécifiques au projet
+# ============================================
+
+# Données confidentielles TGR
+Data_full/
+Data_test/
+
+# Base de données vectorielle (trop lourd)
+Chroma_db/
+
+# Modèle LLM (trop lourd ~5Go)
+Models/
+
+# Logs de conversation
+conversation_log
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
