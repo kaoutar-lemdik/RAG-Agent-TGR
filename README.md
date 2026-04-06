@@ -76,7 +76,7 @@ Employé : "ما هي شروط رهن الصفقات العمومية؟"
 ↓
  Réponse en quelques secondes !
 
-## ⚙️ Comment ça marche ?
+## Comment ça marche ?
 
 ### Explication simple (pour tout le monde) :
 
